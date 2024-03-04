@@ -70,7 +70,7 @@
                     <div class="mb-8" id="setting-up">
                       <h2 class="fw-semi-bold">Setting up local development</h2>
                       <p class="mb-0">ShortUrl is built using modern development toolset. Setting up local development Laravel framework, Blade, Elequent ORM &
-                        Bootstrap. <a href="environment-setup.html">Check it on Github</a></p>
+                        Bootstrap. <a href="https://github.com/OND10/Shorten-Url-Repo">Check it on Github</a></p>
                     </div>
                     <div class="mb-8" id="customize-theme">
                       <div class="mb-4">
